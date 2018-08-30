@@ -1,0 +1,19 @@
+{
+  "name": "react-native-noticebar",
+  "version": "0.0.1",
+  "description": "NoticeBar component for React Native, works at iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ximolang/react-native-noticebar.git"
+  },
+  "author": "ximolang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ximolang/react-native-noticebar/issues"
+  },
+  "homepage": "https://github.com/ximolang/react-native-noticebar#readme"
+}
