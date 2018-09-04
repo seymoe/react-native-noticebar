@@ -10,10 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/ximolang/react-native-noticebar.git"
   },
+  "keywords": [
+    "noticebar",
+    "notice bar",
+    "vertical slide",
+    "react-native",
+    "react-native-noticebar"
+  ],
   "author": "ximolang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ximolang/react-native-noticebar/issues"
   },
-  "homepage": "https://github.com/ximolang/react-native-noticebar#readme"
+  "homepage": "https://github.com/ximolang/react-native-noticebar#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
 }
